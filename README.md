@@ -353,7 +353,8 @@ margin-top:20px;
 ```
 
 ## OUTPUT
-![alt text](image-1.png)
+<img width="1908" height="1143" alt="image" src="https://github.com/user-attachments/assets/c5005f9d-b68c-4614-9a54-a7861266cba7" />
+
 
 
 ## RESULT
